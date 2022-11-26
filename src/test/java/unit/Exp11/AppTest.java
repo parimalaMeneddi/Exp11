@@ -1,6 +1,6 @@
 package unit.Exp11;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 
 public class AppTest 
